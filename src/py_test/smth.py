@@ -1,1 +1,2 @@
-print('niaho gojaimas')
+a = ('niaho gojaimas')
+print(a)
